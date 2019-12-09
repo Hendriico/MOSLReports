@@ -1,0 +1,8 @@
+Package: MOSLReports
+Type: Package
+Title: MOSL's automated reports
+Version: 0.1.0
+Author: MOSL
+Description: Runs all of MOSL's automated reports. That includes cleaning OPS and MPS data, creating watchlists for IPRPs, creating PFM Reports, creating Monthly Peformance Reports and creating Performance graphs.
+Encoding: UTF-8
+LazyData: true

@@ -1,0 +1,552 @@
+\documentclass[12pt,table]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Monthly Performance Report},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Monthly Performance Report}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{November 2019}
+
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\includegraphics[width=24cm]{mosl_title.png}\\[\bigskipamount]}
+\posttitle{\end{center}}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{pdflscape}
+\usepackage{multirow}
+\usepackage{makecell}
+\pagestyle{fancy}
+\fancyhf{}
+\lfoot{MOSL Monthly Performance Report}
+\rhead{\includegraphics[width=6cm]{mosl_header.png}}
+\rfoot{Page \thepage}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\newpage
+
+\hypertarget{summary-of-performance-and-mosl-actions}{%
+\section{Summary of Performance and MOSL
+Actions}\label{summary-of-performance-and-mosl-actions}}
+
+\hypertarget{overview}{%
+\subsection{Overview}\label{overview}}
+
+There were 0 flags for performance issues this month, including 0 issues
+that were flagged because they were on the Watch-list. These flags cover
+0 Trading Parties and the following Market Performance Standards: . Of
+the 0 performance issues not already on the watch-list:
+
+\begin{itemize}
+\tightlist
+\item
+  0 have been escalated to an IPRP
+\item
+  0 have been placed on the watch-list
+\end{itemize}
+
+Of the 0 performance issues on the MPS Watch-list this month:
+
+\begin{itemize}
+\tightlist
+\item
+  0 have been escalated to an IPRP
+\item
+  0 remain on the watch-list
+\item
+  0 were removed from the watch-list
+\end{itemize}
+
+There were 0 IPRPs flagged for performance being more than 5\% below the
+planned milestone. Of these:
+
+\begin{itemize}
+\tightlist
+\item
+  0 have had no action taken against them
+\item
+  0 have been asked to re-submit an IPRP
+\item
+  0 have been escalated to MPC / Panel by MOSL
+\item
+  0 have been placed on watch with increased scrutiny
+\end{itemize}
+
+There were 0 IPRP(s) on the IPRP Watch-list. Of these:
+
+\begin{itemize}
+\tightlist
+\item
+  0 have had no action taken against them
+\item
+  0 have been asked to re-submit an IPRP
+\item
+  0 have been escalated to MPC / Panel by MOSL
+\item
+  0 have been placed on watch with increased scrutiny
+\end{itemize}
+
+There were 0 IPRP(s) that reached the end of their plans this month. Of
+these:
+
+\begin{itemize}
+\tightlist
+\item
+  0 have been de-escalated to temporary watch status
+\item
+  0 have been extended for a further period
+\end{itemize}
+
+The tables below summarise the monthly performance triggers and the IPRP
+milestone flags with the corresponding MOSL actions and rationale.
+
+\hypertarget{monthly-performance-flags-and-watch-list}{%
+\subsection{Monthly performance flags and
+watch-list}\label{monthly-performance-flags-and-watch-list}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{kable}\NormalTok{(flagged_mps_table,}\StringTok{"latex"}\NormalTok{,}\DataTypeTok{longtable =} \OtherTok{TRUE}\NormalTok{, }
+  \DataTypeTok{booktabs =} \OtherTok{TRUE}\NormalTok{,}
+  \DataTypeTok{linesep =} \StringTok{""}
+\NormalTok{    ) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{kable_styling}\NormalTok{(}
+    \DataTypeTok{font_size =} \DecValTok{10}\NormalTok{,}
+    \DataTypeTok{latex_options =} \KeywordTok{c}\NormalTok{(}
+      \StringTok{"repeat_header"}\NormalTok{,}
+      \StringTok{"hold_position"}\NormalTok{,}
+      \StringTok{"striped"}\NormalTok{,}
+      \DataTypeTok{position =} \StringTok{"center"}\NormalTok{, }
+      \DataTypeTok{full_width =} \OtherTok{FALSE}\NormalTok{)}
+\NormalTok{    ) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{column_spec}\NormalTok{(}\DecValTok{4}\NormalTok{, }\DataTypeTok{width =} \StringTok{"8.5cm"}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{row_spec}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DataTypeTok{bold =} \OtherTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begingroup\fontsize{10}{12}\selectfont
+
+\begin{longtable}{lll>{\raggedright\arraybackslash}p{8.5cm}l}
+\toprule
+\endfirsthead
+\multicolumn{5}{@{}l}{\textit{(continued)}}\\
+\toprule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{Trading.Party.ID} & \textbf{MPS} & \textbf{Action} & \textbf{Rationale} & \textbf{Watch\_list}\\
+
+*
+\end{longtable}
+\endgroup{}
+
+\begingroup\fontsize{10}{12}\selectfont
+
+\begin{longtable}[t]{lll>{\raggedright\arraybackslash}p{8.5cm}l}
+\caption{\label{tab:unnamed-chunk-2}Trading Parties flagged for below peer performance}\\
+\toprule
+\endfirsthead
+\caption[]{Trading Parties flagged for below peer performance \textit{(continued)}}\\
+\toprule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{Trading Party} & \textbf{MPS} & \textbf{Action} & \textbf{Rationale} & \textbf{Watch}\\
+
+*
+\end{longtable}
+\endgroup{}
+
+\hypertarget{iprp-milestone-triggers-and-watch-list}{%
+\subsection{IPRP milestone triggers and
+watch-list}\label{iprp-milestone-triggers-and-watch-list}}
+
+\begingroup\fontsize{10}{12}\selectfont
+
+\begin{longtable}[t]{llll>{\raggedright\arraybackslash}p{7cm}l}
+\caption{\label{tab:unnamed-chunk-3}IPRPs flagged for performance below monthly milestone}\\
+\toprule
+\endfirsthead
+\caption[]{IPRPs flagged for performance below monthly milestone \textit{(continued)}}\\
+\toprule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{Trading Party} & \textbf{MPS} & \textbf{Batch} & \textbf{Action} & \textbf{Rationale} & \textbf{Watch}\\
+
+*
+\end{longtable}
+\endgroup{}
+
+\hypertarget{end-of-iprps}{%
+\subsection{End of IPRPs}\label{end-of-iprps}}
+
+\begingroup\fontsize{10}{12}\selectfont
+
+\begin{longtable}[t]{llll>{\raggedright\arraybackslash}p{7cm}}
+\caption{\label{tab:unnamed-chunk-4}IPRPs that have reached the end of their plans}\\
+\toprule
+\endfirsthead
+\caption[]{IPRPs that have reached the end of their plans \textit{(continued)}}\\
+\toprule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{Trading Party} & \textbf{MPS} & \textbf{Batch} & \textbf{Action} & \textbf{Rationale}\\
+
+*
+\end{longtable}
+\endgroup{}
+
+\hypertarget{watch-list}{%
+\subsection{Watch-list}\label{watch-list}}
+
+The two tables below show the Trading Parties that were on watch prior
+to this month's actions.
+
+\hypertarget{mps}{%
+\subsubsection{MPS}\label{mps}}
+
+There are currently 33 Trading Parties on watch for MPS performance.
+
+\begin{longtable}[t]{ll}
+\caption{\label{tab:unnamed-chunk-5}Trading Parties on watch for MPS performance}\\
+\toprule
+Trading Party & MPS\\
+\midrule
+\endfirsthead
+\caption[]{Trading Parties on watch for MPS performance \textit{(continued)}}\\
+\toprule
+Trading Party & MPS\\
+\midrule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{SOUTHSTAFF-R} & \textbf{MPS 1}\\
+SOUTHEAST-W & MPS \vphantom{1} 12\\
+\rowcolor{gray!6}  UNITED-W & MPS \vphantom{2} 12\\
+SOUTHEAST-W & MPS \vphantom{1} 12\\
+\rowcolor{gray!6}  DEEVALLEY-R & MPS \vphantom{1} 15\\
+SSE-R & MPS \vphantom{1} 15\\
+\rowcolor{gray!6}  BUSSTREAM-R & MPS 15\\
+UNITED-R & MPS 15\\
+\rowcolor{gray!6}  WATER2BUS-R & MPS 15\\
+DEEVALLEY-R & MPS \vphantom{1} 15\\
+\rowcolor{gray!6}  SSE-R & MPS \vphantom{1} 15\\
+UNITED-R & MPS 16\\
+\rowcolor{gray!6}  SOUTHWEST-R & MPS \vphantom{2} 16\\
+SOUTHWEST-R & MPS \vphantom{1} 16\\
+\rowcolor{gray!6}  SEVERN-R & MPS \vphantom{1} 17\\
+UNITED-R & MPS 17\\
+\rowcolor{gray!6}  WAVE-R & MPS 17\\
+INDWATER-W & MPS 3\\
+\rowcolor{gray!6}  AFFINITY-W & MPS \vphantom{2} 3\\
+ANGLIAN-W & MPS 3\\
+\rowcolor{gray!6}  AFFINITY-W & MPS \vphantom{1} 3\\
+INDWATER-W & MPS 7\\
+\rowcolor{gray!6}  AFFINITY-W & MPS \vphantom{2} 3\\
+SEVERN-R & MPS 16\\
+\rowcolor{gray!6}  SEVERN-R & MPS \vphantom{1} 17\\
+SOUTHEAST-W & MPS 3\\
+\rowcolor{gray!6}  SUTTON-R & MPS \vphantom{1} 17\\
+UNITED-W & MPS \vphantom{1} 12\\
+\rowcolor{gray!6}  UNITED-W & MPS 3\\
+SMARTA-R & MPS 18\\
+\rowcolor{gray!6}  SOUTHWEST-R & MPS \vphantom{2} 16\\
+SUTTON-R & MPS \vphantom{1} 17\\
+\rowcolor{gray!6}  UNITED-W & MPS \vphantom{2} 12\\*
+\end{longtable}
+
+\pagebreak
+
+\hypertarget{performance-graphs}{%
+\section{Performance Graphs}\label{performance-graphs}}
+
+\hypertarget{monthly-performance-triggers-flagged-trading-parties-only}{%
+\subsection{Monthly Performance Triggers (flagged Trading Parties
+only)}\label{monthly-performance-triggers-flagged-trading-parties-only}}
+
+Below are graphs for those Trading Parties flagged for below-peer
+performance by MPS, as indicated in Table 1 above.
+
+\pagebreak
+
+\hypertarget{iprp-performance-comparison-all-plans}{%
+\subsection{IPRP Performance Comparison (all
+plans)}\label{iprp-performance-comparison-all-plans}}
+
+The graphs below depict the performance of each IPRP against its planned
+milestones, including--but not limited to--those flagged for
+below-planned performance (as indicated in Table 2).
+
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-1.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-2.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-3.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-4.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-5.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-6.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-7.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-8.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-9.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-10.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-11.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-12.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-13.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-14.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-15.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-7-16.pdf}
+
+\hypertarget{watch-list-1}{%
+\subsection{Watch-list}\label{watch-list-1}}
+
+The graphs below depict the performance of issue(s) on the watch-list
+(not including IPRPs).
+
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-1.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-2.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-3.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-4.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-5.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-6.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-7.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-8.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-9.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-10.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-11.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-12.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-13.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-14.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-15.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-16.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-17.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-18.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-19.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-20.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-21.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-8-22.pdf}
+
+\hypertarget{aggregated-mps}{%
+\subsection{Aggregated MPS}\label{aggregated-mps}}
+
+The graphs below show the aggregated performance for each MPS.
+
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-1.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-2.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-3.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-4.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-5.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-6.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-7.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-8.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-9.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-10.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-11.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-12.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-13.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-14.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-15.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-16.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-17.pdf}
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-9-18.pdf}
+
+\newpage
+
+\hypertarget{iprp-analytics}{%
+\section{IPRP Analytics}\label{iprp-analytics}}
+
+\hypertarget{iprp-performance-delta-to-plan-and-market-level}{%
+\subsection{IPRP Performance: Delta to Plan and Market
+Level}\label{iprp-performance-delta-to-plan-and-market-level}}
+
+The graphs below give an indication of whether, overall, Trading Parties
+are meeting or exceeding their IPRP milestone targets (left-hand side
+graph); and an indication of whether performance, overall, is converging
+with peer-level performance. The graphs are a general guide only, as the
+data is aggregated across all plans.
+
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-10-1.pdf}
+
+\newpage
+
+\hypertarget{current-status-of-iprps}{%
+\subsection{Current Status of IPRPs}\label{current-status-of-iprps}}
+
+The current status of each IPRP is shown in the table below.
+
+\begin{longtable}[t]{llrrrl}
+\caption{\label{tab:unnamed-chunk-11}Current status of IPRP(s)}\\
+\toprule
+Trading Party & MPS & Batch & Actual Perf. & Planned Perf. & Status\\
+\midrule
+\endfirsthead
+\caption[]{Current status of IPRP(s) \textit{(continued)}}\\
+\toprule
+Trading Party & MPS & Batch & Actual Perf. & Planned Perf. & Status\\
+\midrule
+\endhead
+\
+\endfoot
+\bottomrule
+\endlastfoot
+\rowcolor{gray!6}  \textbf{ANGLIAN-R} & \textbf{MPS 16} & \textbf{1} & \textbf{NA} & \textbf{0.8} & \textbf{NA}\\
+NORTHUM-W & MPS 7 & 1 & NA & 0.9 & NA\\
+\rowcolor{gray!6}  SEVERN-R & MPS 16 & 1 & NA & 0.6 & NA\\
+SOUTHEAST-W & MPS 3 & 1 & NA & 0.9 & NA\\
+\rowcolor{gray!6}  SOUTHEAST-W & MPS 7 & 1 & NA & 0.9 & NA\\
+THAMES-W & MPS 7 & 1 & NA & 0.8 & NA\\
+\rowcolor{gray!6}  WAVE-R & MPS 16 & 1 & NA & 0.8 & NA\\
+WAVE-R & MPS 17 & 1 & NA & 0.9 & NA\\
+\rowcolor{gray!6}  WAVE-R & MPS 2 & 1 & NA & 0.9 & NA\\
+CLEARBUS-R & MPS 17 & 2 & NA & 0.8 & NA\\
+\rowcolor{gray!6}  SEVERN-W & MPS 7 & 2 & NA & 0.8 & NA\\
+SUTTON-R & MPS 16 & 2 & NA & 0.8 & NA\\
+\rowcolor{gray!6}  WATER2BUS-R & MPS 2 & 2 & NA & 0.8 & NA\\
+NORTHUM-W & MPS 3 & 3 & NA & 0.8 & NA\\
+\rowcolor{gray!6}  SEVERN-R & MPS 17 & 6 & NA & 0.6 & NA\\
+CASTLE-R & MPS 18 & 7 & NA & NA & NA\\
+\rowcolor{gray!6}  EVERFLOW-R & MPS 18 & 7 & NA & 0.6 & NA\\*
+\end{longtable}
+
+The graphs below depict the changes in status of IPRPs (on-track, close
+and off-track).
+
+\includegraphics{MonthlyPerformanceReport_files/figure-latex/unnamed-chunk-12-1.pdf}
+
+
+\end{document}
