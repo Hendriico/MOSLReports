@@ -12,17 +12,7 @@ Pfm_reports <- function(dir=choose.dir(),output=dir, render_list = c()){
   # Clean workspace
   #rm(list = ls())
 
-  # Set directory
-  #dir <- getwd()
 
-  #dir2<-"C:\\Users\\HendriicoMerila\\Documents\\Analytics"
-  #dir2 <- "C:\\Users\\LukeAustin\\OneDrive - Market Operator Services Limited\\Luke_Backup\\Luke\\Performance\\PfmReports\\"
-  #  dir2 <-"C:\\Users\\AlexandraPiper\\OneDrive - Market Operator Services Limited\\BAU\\IPRPs\\PfmReports"
-
-
-  #dir2 <- "C:\\Users\\LukeAustin\\OneDrive - Market Operator Services Limited\\Luke_Backup\\Luke\\Performance\\PfmReports\\"
-
-  #dir2 <-"C:\\Users\\AlexandraPiper\\OneDrive - Market Operator Services Limited\\BAU\\IPRPs\\PfmReports"
 
 
   library(tidyverse)
