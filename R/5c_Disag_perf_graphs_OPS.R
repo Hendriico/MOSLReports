@@ -3,6 +3,7 @@ graphs_OPS <- function(dir=choose.dir(),output_dir=dir){
   # Setup --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   library(reshape2)
+  library(scales)
   library(tidyverse)
 
 
