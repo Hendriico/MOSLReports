@@ -8,7 +8,7 @@ Pfm_reports
 Creates the Pfm reports for all the Trading Parties
 }
 \usage{
-Pfm_reports(dir = choose.dir(), output = dir)
+Pfm_reports(dir = choose.dir(), output = dir, render_list = c())
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -17,6 +17,9 @@ Path to the Analytics folder
 }
   \item{output_dir}{
 Path to the folder you want the folder for the output files to be created in. By default it is the Analytics folder.
+  }
+  \item{render_list}{
+  List of Trading Parties to produce the reports for. If it's left empty, reports will be produced for all Trading Parties.
   }
 }
 \details{
