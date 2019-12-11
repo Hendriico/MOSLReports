@@ -49,7 +49,7 @@ knitr::opts_chunk$set(
 
 # Filtering each data set for the Trading Party and creating TEMP file for the rest of the loop --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-mps_list_pr <- c("MPS 1", "MPS 2", "MPS 3", "MPS 4", "MPS 7", "MPS 12", "MPS 16", "MPS 17", "MPS 18")
+mps_list_pr <- c("MPS 1", "MPS 2", "MPS 3", "MPS 4", "MPS 7", "MPS 12", "MPS 16", "MPS 17")
 
 mps_data_temp <- mps_data %>% 
   filter(Trading.Party.ID == TRADING.PARTY) %>%
@@ -1215,6 +1215,8 @@ if (nrow(ops_data_temp) > 0) {
 ## Performance Criteria
 
 A Trading Party's MPS performance will be flagged when the ratio of on-time task completion to total tasks completed for that MPS falls below the peer mean and peer median level for three consecutive months. "Peer mean" and "peer median" refer, respectively, to the mean and median of all on-time task ratios for every Trading Party in the market. The following MPS are currently subject to this criteria: `r paste(mps_list_pr, sep = ", ")`.
+
+MPS performance will also be flagged when it is lower than the threshold percentage, set by MOSL. This threshold performance can change when MOSL feel appropriate. Currently, only MPS 18 is subject to a threshold (75%).
 
 When evaluating these performance flags, MOSL takes into account other factors, including: performance relative to comparable peers; number of tasks relative to size; and other important Trading Party activities, such as data improvement activity and significant operational changes.
 

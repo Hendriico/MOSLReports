@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.11)  4 DEC 2019 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.11)  9 DEC 2019 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,27 +927,37 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [2 <./mosl_header.png>]
-Overfull \hbox (22.63902pt too wide) in alignment at lines 230--237
+Overfull \hbox (22.63902pt too wide) in alignment at lines 230--241
  [] [] [] [] [] 
  []
 
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 237.
+Package pdftex.def Info: mosl_header.png  used on input line 241.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [3]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 271.
+Package pdftex.def Info: mosl_header.png  used on input line 272.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [4]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 331.
+Package pdftex.def Info: mosl_header.png  used on input line 304.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [5]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 304.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[6]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 353.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[7]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf, id=120, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-1.pdf, id=129, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
@@ -955,10 +965,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf  used 
-on input line 342.
+on input line 364.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-2.pdf, id=121, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-2.pdf, id=130, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-2.pdf Graphic file (type pdf)
@@ -966,10 +976,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-2.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-2.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-2.pdf  used 
-on input line 343.
+on input line 365.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf, id=122, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-3.pdf, id=131, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf Graphic file (type pdf)
@@ -977,10 +987,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf  used 
-on input line 344.
+on input line 366.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-4.pdf, id=123, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-4.pdf, id=132, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-4.pdf Graphic file (type pdf)
@@ -988,10 +998,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-4.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-4.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-4.pdf  used 
-on input line 345.
+on input line 367.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf, id=124, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-5.pdf, id=133, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf Graphic file (type pdf)
@@ -999,10 +1009,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf  used 
-on input line 346.
+on input line 368.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf, id=125, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-6.pdf, id=134, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf Graphic file (type pdf)
@@ -1010,10 +1020,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf  used 
-on input line 347.
+on input line 369.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-7.pdf, id=126, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-7.pdf, id=135, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-7.pdf Graphic file (type pdf)
@@ -1021,10 +1031,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-7.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-7.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-7.pdf  used 
-on input line 348.
+on input line 370.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf, id=127, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-8.pdf, id=136, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf Graphic file (type pdf)
@@ -1032,10 +1042,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf  used 
-on input line 349.
+on input line 371.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf, id=128, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-5-9.pdf, id=137, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf Graphic file (type pdf)
@@ -1043,10 +1053,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf  used 
-on input line 350.
+on input line 372.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-10.pdf, id=129, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-5-10.pdf, id=138, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-10.pdf Graphic file (type pdf)
@@ -1054,10 +1064,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-10.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-10.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-10.pdf  used
- on input line 351.
+ on input line 373.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf, id=130, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-5-11.pdf, id=139, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf Graphic file (type pdf)
@@ -1065,10 +1075,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf  used
- on input line 352.
+ on input line 374.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf, id=131, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-5-12.pdf, id=140, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf Graphic file (type pdf)
@@ -1076,10 +1086,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf  used
- on input line 353.
+ on input line 375.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-13.pdf, id=132, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-5-13.pdf, id=141, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-13.pdf Graphic file (type pdf)
@@ -1087,10 +1097,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-13.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-13.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-13.pdf  used
- on input line 354.
+ on input line 376.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf, id=133, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-5-14.pdf, id=142, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf Graphic file (type pdf)
@@ -1098,290 +1108,119 @@ port-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf  used
- on input line 355.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-15.pdf, id=134, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-15.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-15.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-15.pdf  used
- on input line 356.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-16.pdf, id=135, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-16.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-16.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-16.pdf  used
- on input line 357.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-17.pdf, id=136, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-17.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-17.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-17.pdf  used
- on input line 358.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-18.pdf, id=137, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-18.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-18.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-18.pdf  used
- on input line 359.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-19.pdf, id=138, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-19.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-19.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-19.pdf  used
- on input line 360.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-20.pdf, id=139, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-20.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-20.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-20.pdf  used
- on input line 361.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-21.pdf, id=140, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-21.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-21.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-21.pdf  used
- on input line 362.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-22.pdf, id=141, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-22.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-22.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-22.pdf  used
- on input line 363.
-(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
-<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-5-23.pdf, id=142, 578.16pt x 230.8625p
-t>
-File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
-port-2019-12_files/figure-latex/unnamed-chunk-5-23.pdf Graphic file (type pdf)
-<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-23.pdf>
-Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-23.pdf  used
- on input line 364.
+ on input line 377.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--365
+Underfull \hbox (badness 10000) in paragraph at lines 364--378
 []
  []
 
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
+Package pdftex.def Info: mosl_header.png  used on input line 378.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[6 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
+[8 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
 rt-2019-12_files/figure-latex/unnamed-chunk-5-1.pdf> <c:/Users/HendriicoMerila/
 Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-latex
 /unnamed-chunk-5-2.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
+Package pdftex.def Info: mosl_header.png  used on input line 378.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[7 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
+[9 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
 rt-2019-12_files/figure-latex/unnamed-chunk-5-3.pdf> <c:/Users/HendriicoMerila/
 Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-latex
 /unnamed-chunk-5-4.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-5.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[8 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
-rt-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf> <c:/Users/HendriicoMerila/
-Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-latex
-/unnamed-chunk-5-7.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
-onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[9 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRepo
-rt-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf> <c:/Users/HendriicoMerila/
-Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-latex
-/unnamed-chunk-5-10.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
-MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
+Package pdftex.def Info: mosl_header.png  used on input line 378.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [10 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-5-6.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-5-7.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-8.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 378.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[11 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-5-9.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-5-10.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly
+/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-11.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 380.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[12 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-5-12.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
 ex/unnamed-chunk-5-13.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
 y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-14.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[11 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-15.pdf> <c:/Users/HendriicoMeril
-a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-5-16.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-17.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 365.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[12 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-18.pdf> <c:/Users/HendriicoMeril
-a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-5-19.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-20.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 367.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[13 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-5-21.pdf> <c:/Users/HendriicoMeril
-a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-5-22.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-5-23.pdf>]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf, id=295, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-1.pdf, id=236, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf Graphic file (type pdf)
@@ -1389,10 +1228,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf  used 
-on input line 376.
+on input line 389.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-2.pdf, id=296, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-2.pdf, id=237, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-2.pdf Graphic file (type pdf)
@@ -1400,10 +1239,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-2.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-2.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-2.pdf  used 
-on input line 377.
+on input line 390.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf, id=297, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-3.pdf, id=238, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf Graphic file (type pdf)
@@ -1411,10 +1250,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf  used 
-on input line 378.
+on input line 391.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf, id=298, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-4.pdf, id=239, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf Graphic file (type pdf)
@@ -1422,10 +1261,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf  used 
-on input line 379.
+on input line 392.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-5.pdf, id=299, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-5.pdf, id=240, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-5.pdf Graphic file (type pdf)
@@ -1433,10 +1272,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-5.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-5.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-5.pdf  used 
-on input line 380.
+on input line 393.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf, id=300, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-6.pdf, id=241, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf Graphic file (type pdf)
@@ -1444,10 +1283,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf  used 
-on input line 381.
+on input line 394.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf, id=301, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-7.pdf, id=242, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf Graphic file (type pdf)
@@ -1455,10 +1294,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf  used 
-on input line 382.
+on input line 395.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-8.pdf, id=302, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-8.pdf, id=243, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-8.pdf Graphic file (type pdf)
@@ -1466,10 +1305,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-8.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-8.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-8.pdf  used 
-on input line 383.
+on input line 396.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf, id=303, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-6-9.pdf, id=244, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf Graphic file (type pdf)
@@ -1477,10 +1316,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf  used 
-on input line 384.
+on input line 397.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf, id=304, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-10.pdf, id=245, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf Graphic file (type pdf)
@@ -1488,10 +1327,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf  used
- on input line 385.
+ on input line 398.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-11.pdf, id=305, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-11.pdf, id=246, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-11.pdf Graphic file (type pdf)
@@ -1499,10 +1338,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-11.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-11.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-11.pdf  used
- on input line 386.
+ on input line 399.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf, id=306, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-12.pdf, id=247, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf Graphic file (type pdf)
@@ -1510,10 +1349,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf  used
- on input line 387.
+ on input line 400.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf, id=307, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-13.pdf, id=248, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf Graphic file (type pdf)
@@ -1521,10 +1360,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf  used
- on input line 388.
+ on input line 401.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-14.pdf, id=308, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-14.pdf, id=249, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-14.pdf Graphic file (type pdf)
@@ -1532,10 +1371,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-14.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-14.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-14.pdf  used
- on input line 389.
+ on input line 402.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf, id=309, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-15.pdf, id=250, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf Graphic file (type pdf)
@@ -1543,10 +1382,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf  used
- on input line 390.
+ on input line 403.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf, id=310, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-16.pdf, id=251, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf Graphic file (type pdf)
@@ -1554,10 +1393,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf  used
- on input line 391.
+ on input line 404.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-6-17.pdf, id=311, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-6-17.pdf, id=252, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-6-17.pdf Graphic file (type pdf)
@@ -1565,135 +1404,135 @@ port-2019-12_files/figure-latex/unnamed-chunk-6-17.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-6-17.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-17.pdf  used
- on input line 392.
+ on input line 405.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--393
+Underfull \hbox (badness 10000) in paragraph at lines 389--406
 []
  []
 
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 393.
+Package pdftex.def Info: mosl_header.png  used on input line 406.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[14 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[13 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-1.pdf> <c:/Users/HendriicoMerila
 /Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
 x/unnamed-chunk-6-2.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
 MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-3.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 393.
+Package pdftex.def Info: mosl_header.png  used on input line 406.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[15 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[14 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-4.pdf> <c:/Users/HendriicoMerila
 /Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
 x/unnamed-chunk-6-5.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
 MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-6.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 393.
+Package pdftex.def Info: mosl_header.png  used on input line 406.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[16 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[15 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-7.pdf> <c:/Users/HendriicoMerila
 /Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
 x/unnamed-chunk-6-8.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
 MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-9.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 393.
+Package pdftex.def Info: mosl_header.png  used on input line 406.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[17 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[16 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-10.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
 ex/unnamed-chunk-6-11.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
 y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-12.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 393.
+Package pdftex.def Info: mosl_header.png  used on input line 406.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[18 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[17 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-13.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
 ex/unnamed-chunk-6-14.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
 y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-6-15.pdf>]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf, id=409, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-7-1.pdf, id=351, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type pdf)
@@ -1701,10 +1540,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf  used 
-on input line 400.
+on input line 413.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf, id=410, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-7-2.pdf, id=352, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf Graphic file (type pdf)
@@ -1712,10 +1551,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf  used 
-on input line 401.
+on input line 414.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-7-3.pdf, id=411, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-7-3.pdf, id=353, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-7-3.pdf Graphic file (type pdf)
@@ -1723,10 +1562,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-7-3.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-7-3.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-3.pdf  used 
-on input line 402.
+on input line 415.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf, id=412, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-7-4.pdf, id=354, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf Graphic file (type pdf)
@@ -1734,34 +1573,287 @@ port-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf  used 
-on input line 403.
+on input line 416.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-5.pdf, id=355, 578.16pt x 230.8625pt
+>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-5.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-5.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-5.pdf  used 
+on input line 417.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-6.pdf, id=356, 578.16pt x 230.8625pt
+>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-6.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-6.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-6.pdf  used 
+on input line 418.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-7.pdf, id=357, 578.16pt x 230.8625pt
+>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-7.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-7.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-7.pdf  used 
+on input line 419.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-8.pdf, id=358, 578.16pt x 230.8625pt
+>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-8.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-8.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-8.pdf  used 
+on input line 420.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-9.pdf, id=359, 578.16pt x 230.8625pt
+>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-9.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-9.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-9.pdf  used 
+on input line 421.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-10.pdf, id=360, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-10.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-10.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-10.pdf  used
+ on input line 422.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-11.pdf, id=361, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-11.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-11.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-11.pdf  used
+ on input line 423.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-12.pdf, id=362, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-12.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-12.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-12.pdf  used
+ on input line 424.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-13.pdf, id=363, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-13.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-13.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-13.pdf  used
+ on input line 425.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-14.pdf, id=364, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-14.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-14.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-14.pdf  used
+ on input line 426.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-15.pdf, id=365, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-15.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-15.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-15.pdf  used
+ on input line 427.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-16.pdf, id=366, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-16.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-16.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-16.pdf  used
+ on input line 428.
+(pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
+<C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
+2019-12_files/figure-latex/unnamed-chunk-7-17.pdf, id=367, 578.16pt x 230.8625p
+t>
+File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
+port-2019-12_files/figure-latex/unnamed-chunk-7-17.pdf Graphic file (type pdf)
+<use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-17.pdf>
+Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
+onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-17.pdf  used
+ on input line 429.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--404
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--404
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--404
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--430
 []
  []
 
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 404.
+Package pdftex.def Info: mosl_header.png  used on input line 430.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[19 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[18 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-6-16.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
 ex/unnamed-chunk-6-17.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
 y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-1.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 430.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[19 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-7-3.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 430.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[20 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-5.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-7-6.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-7.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 430.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[21 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-8.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-7-9.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-10.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 430.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[22 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-11.pdf> <c:/Users/HendriicoMeril
+a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
+ex/unnamed-chunk-7-12.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
+y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-13.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 432.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[23 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-7-14.pdf> <c:/Users/HendriicoMeril
+a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
+ex/unnamed-chunk-7-15.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
+y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-16.pdf>]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf, id=434, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-1.pdf, id=485, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
@@ -1769,10 +1861,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf  used 
-on input line 410.
+on input line 436.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf, id=435, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-2.pdf, id=486, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf Graphic file (type pdf)
@@ -1780,10 +1872,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf  used 
-on input line 411.
+on input line 437.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf, id=436, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-3.pdf, id=487, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf Graphic file (type pdf)
@@ -1791,10 +1883,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf  used 
-on input line 412.
+on input line 438.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf, id=437, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-4.pdf, id=488, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf Graphic file (type pdf)
@@ -1802,10 +1894,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf  used 
-on input line 413.
+on input line 439.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf, id=438, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-5.pdf, id=489, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf Graphic file (type pdf)
@@ -1813,10 +1905,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf  used 
-on input line 414.
+on input line 440.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf, id=439, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-6.pdf, id=490, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf Graphic file (type pdf)
@@ -1824,10 +1916,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf  used 
-on input line 415.
+on input line 441.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf, id=440, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-7.pdf, id=491, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf Graphic file (type pdf)
@@ -1835,10 +1927,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf  used 
-on input line 416.
+on input line 442.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf, id=441, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-8.pdf, id=492, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf Graphic file (type pdf)
@@ -1846,10 +1938,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf  used 
-on input line 417.
+on input line 443.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf, id=442, 578.16pt x 230.8625pt
+2019-12_files/figure-latex/unnamed-chunk-8-9.pdf, id=493, 578.16pt x 230.8625pt
 >
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf Graphic file (type pdf)
@@ -1857,10 +1949,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf  used 
-on input line 418.
+on input line 444.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf, id=443, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-10.pdf, id=494, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf Graphic file (type pdf)
@@ -1868,10 +1960,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf  used
- on input line 419.
+ on input line 445.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf, id=444, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-11.pdf, id=495, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf Graphic file (type pdf)
@@ -1879,10 +1971,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf  used
- on input line 420.
+ on input line 446.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf, id=445, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-12.pdf, id=496, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf Graphic file (type pdf)
@@ -1890,10 +1982,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf  used
- on input line 421.
+ on input line 447.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf, id=446, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-13.pdf, id=497, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf Graphic file (type pdf)
@@ -1901,10 +1993,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf  used
- on input line 422.
+ on input line 448.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf, id=447, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-14.pdf, id=498, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf Graphic file (type pdf)
@@ -1912,10 +2004,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf  used
- on input line 423.
+ on input line 449.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf, id=448, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-15.pdf, id=499, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf Graphic file (type pdf)
@@ -1923,10 +2015,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf  used
- on input line 424.
+ on input line 450.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf, id=449, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-16.pdf, id=500, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf Graphic file (type pdf)
@@ -1934,10 +2026,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf  used
- on input line 425.
+ on input line 451.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf, id=450, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-17.pdf, id=501, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf Graphic file (type pdf)
@@ -1945,10 +2037,10 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf  used
- on input line 426.
+ on input line 452.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf, id=451, 578.16pt x 230.8625p
+2019-12_files/figure-latex/unnamed-chunk-8-18.pdf, id=502, 578.16pt x 230.8625p
 t>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf Graphic file (type pdf)
@@ -1956,211 +2048,208 @@ port-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf Graphic file (type pdf)
 ort-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf  used
- on input line 427.
+ on input line 453.
 (pdftex.def)             Requested size: 469.75385pt x 187.5753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--454
 []
  []
 
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[20 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-7-2.pdf> <c:/Users/HendriicoMerila
-/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
-x/unnamed-chunk-7-3.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
-MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-7-4.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[21 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-1.pdf> <c:/Users/HendriicoMerila
-/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
-x/unnamed-chunk-8-2.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
-MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[22 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-4.pdf> <c:/Users/HendriicoMerila
-/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
-x/unnamed-chunk-8-5.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
-MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
-(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[23 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-7.pdf> <c:/Users/HendriicoMerila
-/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
-x/unnamed-chunk-8-8.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
-MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf>]
-File: mosl_header.png Graphic file (type png)
-<use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
+Package pdftex.def Info: mosl_header.png  used on input line 454.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [24 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-10.pdf> <c:/Users/HendriicoMeril
+ort-2019-12_files/figure-latex/unnamed-chunk-7-17.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-8-11.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf>]
+ex/unnamed-chunk-8-1.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly
+/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-2.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 428.
+Package pdftex.def Info: mosl_header.png  used on input line 454.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [25 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-13.pdf> <c:/Users/HendriicoMeril
-a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-8-14.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf>]
+ort-2019-12_files/figure-latex/unnamed-chunk-8-3.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-8-4.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-5.pdf>]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 429.
+Package pdftex.def Info: mosl_header.png  used on input line 454.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
 [26 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
-ort-2019-12_files/figure-latex/unnamed-chunk-8-16.pdf> <c:/Users/HendriicoMeril
+ort-2019-12_files/figure-latex/unnamed-chunk-8-6.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-8-7.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/
+MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-8.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 454.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[27 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-8-9.pdf> <c:/Users/HendriicoMerila
+/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-late
+x/unnamed-chunk-8-10.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthly
+/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-11.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 454.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[28 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-8-12.pdf> <c:/Users/HendriicoMeril
 a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
-ex/unnamed-chunk-8-17.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
-y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf>]
+ex/unnamed-chunk-8-13.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
+y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-14.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 455.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[29 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-8-15.pdf> <c:/Users/HendriicoMeril
+a/Documents/Analytics/Monthly/MonthlyPerformanceReport-2019-12_files/figure-lat
+ex/unnamed-chunk-8-16.pdf> <c:/Users/HendriicoMerila/Documents/Analytics/Monthl
+y/MonthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-8-17.pdf>]
+File: mosl_header.png Graphic file (type png)
+<use mosl_header.png>
+Package pdftex.def Info: mosl_header.png  used on input line 455.
+(pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
+[30 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+ort-2019-12_files/figure-latex/unnamed-chunk-8-18.pdf>]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-9-1.pdf, id=588, 578.16pt x 289.08pt>
+2019-12_files/figure-latex/unnamed-chunk-9-1.pdf, id=629, 578.16pt x 289.08pt>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type pdf)
 <use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-9-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-9-1.pdf  used 
-on input line 444.
+on input line 470.
 (pdftex.def)             Requested size: 469.75385pt x 234.8769pt.
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 446.
+Package pdftex.def Info: mosl_header.png  used on input line 472.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[27 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[31 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-9-1.pdf>]
 <C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceReport-
-2019-12_files/figure-latex/unnamed-chunk-11-1.pdf, id=602, 578.16pt x 722.7pt>
+2019-12_files/figure-latex/unnamed-chunk-11-1.pdf, id=643, 578.16pt x 722.7pt>
 File: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRe
 port-2019-12_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (type pdf)
 <use C:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-11-1.pdf>
 Package pdftex.def Info: C:/Users/HendriicoMerila/Documents/Analytics/Monthly/M
 onthlyPerformanceReport-2019-12_files/figure-latex/unnamed-chunk-11-1.pdf  used
- on input line 491.
+ on input line 517.
 (pdftex.def)             Requested size: 469.75385pt x 587.1923pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 494.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 494.
+Package pdftex.def Info: mosl_header.png  used on input line 520.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[28]
+[32]
 File: mosl_header.png Graphic file (type png)
 <use mosl_header.png>
-Package pdftex.def Info: mosl_header.png  used on input line 494.
+Package pdftex.def Info: mosl_header.png  used on input line 520.
 (pdftex.def)             Requested size: 170.71657pt x 24.3684pt.
-[29 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
+[33 <c:/Users/HendriicoMerila/Documents/Analytics/Monthly/MonthlyPerformanceRep
 ort-2019-12_files/figure-latex/unnamed-chunk-11-1.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 494.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
 (./MonthlyPerformanceReport-2019-12.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 494.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 494.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
 Package rerunfilecheck Info: File `MonthlyPerformanceReport-2019-12.out' has no
 t changed.
 (rerunfilecheck)             Checksum: 726B79302FA86D62C9C690973E307290;2747.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 494.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 520.
  ) 
 Here is how much of TeX's memory you used:
- 12070 strings out of 494108
- 213384 string characters out of 6171570
- 254330 words of memory out of 5000000
- 15903 multiletter control sequences out of 15000+600000
+ 12094 strings out of 494108
+ 216115 string characters out of 6171570
+ 255330 words of memory out of 5000000
+ 15923 multiletter control sequences out of 15000+600000
  57131 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,15n,45p,501b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,15n,45p,617b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/HendriicoMerila/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/
 lm/lm-ec.enc}{c:/Users/HendriicoMerila/AppData/Roaming/TinyTeX/texmf-dist/fonts
 /enc/dvips/lm/lm-ts1.enc}<c:/Users/HendriicoMerila/AppData/Roaming/TinyTeX/texm
@@ -2172,11 +2261,11 @@ pfb><c:/Users/HendriicoMerila/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/pu
 blic/lm/lmr17.pfb><c:/Users/HendriicoMerila/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmri10.pfb><c:/Users/HendriicoMerila/AppData/Roaming/Tiny
 TeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on MonthlyPerformanceReport-2019-12.pdf (29 pages, 596582 bytes)
+Output written on MonthlyPerformanceReport-2019-12.pdf (33 pages, 623094 bytes)
 .
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
- 487 compressed objects within 5 object streams
- 66 named destinations out of 1000 (max. 500000)
- 443 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 704 PDF objects out of 1000 (max. 8388607)
+ 517 compressed objects within 6 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 463 words of extra memory for PDF output out of 10000 (max. 10000000)
 

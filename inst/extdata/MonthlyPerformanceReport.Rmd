@@ -336,7 +336,7 @@ plist_mps_agg = lapply(split(mps_summary_melt, mps_summary_melt$MPS), function(d
     geom_line(aes(x = Date, y = value * max(data$TotalTaskVolume), colour = variable, linetype = variable)) +
     scale_y_continuous(sec.axis = sec_axis(~. / max(data$TotalTaskVolume), name = "Proportion")) +
     scale_fill_manual(NULL, values = "azure3") +
-    scale_linetype_manual(values = c(1,2), labels = label_agg) +
+    scale_linetype_manual(values = c(2,1), labels = label_agg) +
     scale_colour_manual(values = c("azure4", "dodgerblue4"), labels = label_agg) +
     ylab("Volume of tasks") + xlab("Date") +
     theme(legend.title = element_blank(), legend.position = "right") +
